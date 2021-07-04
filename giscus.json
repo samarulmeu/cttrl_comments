@@ -1,3 +1,10 @@
 {
-  "origins": ["https://cttrl-git-test-samarul.vercel.app"]
+  "origins": [
+    "https://cttrl.app",
+    "https://cttrl.vercel.app"
+  ],
+  "originsRegex": [
+    "https:\/\/cttrl-git-([A-z]|-)*samarul\\.vercel\\.app",
+    "http:\/\/localhost:[0-9]+"
+  ]
 }
