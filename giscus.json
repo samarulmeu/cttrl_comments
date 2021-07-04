@@ -1,5 +1,3 @@
 {
-  "origins": [
-      "https://cttrl-git-test-samarul.vercel.app"
-   ]
+  "origins": ["https://cttrl-git-test-samarul.vercel.app"]
 }
